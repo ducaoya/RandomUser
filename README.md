@@ -5,25 +5,10 @@
 ### 项目源码为vue项目编译后结果，非vue源码。
 ### vue源码转至https://github.com/ducaoya/vue-randomuser
 
-## Project setup
+# project run
 ```
-npm install
-```
+git clone 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+run index.html
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
